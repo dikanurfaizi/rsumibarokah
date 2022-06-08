@@ -1,0 +1,7 @@
+You can use builder from below link:
+http://pagebuilder.potenzaglobalsolutions.com/
+
+Please note:
+1. For better builder experience use latest chrome and safari only.
+2. Default webster template is available for edit in demo. Category demos are not available right now.
+3. Slider revolution images cannot be updated using builder.
